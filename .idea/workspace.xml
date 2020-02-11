@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1dfbb8ce-6869-430b-ba31-eb66becf6bc3" name="Default Changelist" comment="" />
+    <list default="true" id="1dfbb8ce-6869-430b-ba31-eb66becf6bc3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Spring_App_Without_Spring_Boot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mohamedsamir1495/spring_app_without_spring_boot/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mohamedsamir1495/spring_app_without_spring_boot/config/SpringAppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mohamedsamir1495/spring_app_without_spring_boot/config/SpringAppDispatcherServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mohamedsamir1495/spring_app_without_spring_boot/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mohamedsamir1495/spring_app_without_spring_boot/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mohamedsamir1495/spring_app_without_spring_boot/dto/PublishArticleDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mohamedsamir1495/spring_app_without_spring_boot/dto/RegisterUserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mohamedsamir1495/spring_app_without_spring_boot/dto/SubscribeDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mohamedsamir1495/spring_app_without_spring_boot/dto/UnSubscribeDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mohamedsamir1495/spring_app_without_spring_boot/model/EntityManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mohamedsamir1495/spring_app_without_spring_boot/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mohamedsamir1495/spring_app_without_spring_boot/server/CustomTomcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mohamedsamir1495/spring_app_without_spring_boot/service/SeedDataBaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mohamedsamir1495/spring_app_without_spring_boot/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_app_without_spring_boot/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_app_without_spring_boot/MyServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_app_without_spring_boot/ProgrammaticTomcat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spring_app_without_spring_boot/controller/HelloWorldController.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,19 +68,6 @@
                 <item name="Spring App Without Spring Boot" type="f1a62948:ProjectNode" />
                 <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
               </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Spring App Without Spring Boot" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Spring App Without Spring Boot" type="f1a62948:ProjectNode" />
-                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
-                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
-              </path>
             </expand>
             <select />
           </tree_state>
@@ -71,21 +82,45 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XaVW0B4mMS7zdxds0Uw49hqRw1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="LombokPluginEnabledInProject" value="true" />
+    <property name="LombokPluginIS_ANNOTATION_PROCESSING_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_BUILDER_Enabled" value="true" />
+    <property name="LombokPluginIS_CONSTRUCTOR_Enabled" value="true" />
+    <property name="LombokPluginIS_DELEGATE_Enabled" value="true" />
+    <property name="LombokPluginIS_LOG_Enabled" value="true" />
+    <property name="LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled" value="false" />
+    <property name="LombokPluginIS_MISSING_LOMBOK_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_VAL_Enabled" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Lombok plugin" />
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\RFWL8051\Desktop\Technical Study\Projects\Spring App Without Spring Boot\src\main" />
+      <recent name="C:\Users\RFWL8051\Desktop\Technical Study\Projects\Spring App Without Spring Boot\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.auth0.samples.Main" />
       <module name="Spring_App_Without_Spring_Boot.main" />
@@ -112,9 +147,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mohamedsamir1495.spring_app_without_spring_boot.Main" />
+      <module name="Spring_App_Without_Spring_Boot.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mohamedsamir1495.spring_app_without_spring_boot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.spring_app_no_boot.Main" />
       <module name="Spring_App_Without_Spring_Boot.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spring_app_without_spring_boot.Main" />
+      <module name="Spring_App_Without_Spring_Boot.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring_app_without_spring_boot.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -138,32 +199,13 @@
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="Spring App Without Spring Boot [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="clean" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Gradle.Spring App Without Spring Boot [build]" />
-        <item itemvalue="Gradle.Spring App Without Spring Boot [clean]" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -195,39 +237,47 @@
       <workItem from="1581347553730" duration="5158000" />
       <workItem from="1581368068973" duration="3258000" />
       <workItem from="1581410628169" duration="595000" />
-      <workItem from="1581419552483" duration="1533000" />
+      <workItem from="1581419552483" duration="23083000" />
+      <workItem from="1581454714882" duration="8048000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="2371" y="-239" key="#Project_Structure" timestamp="1581326133275">
-      <screen x="1920" y="-327" width="1920" height="1040" />
+    <state x="361" y="70" key="#Project_Structure" timestamp="1581423992830">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="2371" y="-239" key="#Project_Structure/0.0.1536.824/1920.-327.1920.1040@1920.-327.1920.1040" timestamp="1581326133275" />
-    <state x="361" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1581285874222" />
-    <state width="1492" height="237" key="GridCell.Tab.0.bottom" timestamp="1581421139701">
+    <state x="361" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1581423992830" />
+    <state x="0" y="176" key="#com.intellij.ide.util.MemberChooser" timestamp="1581455770969">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="176" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1581455770969" />
+    <state width="1493" height="238" key="GridCell.Tab.0.bottom" timestamp="1581463041334">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1876" height="298" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.-327.1920.1040@1920.-327.1920.1040" timestamp="1581352517977" />
-    <state width="1492" height="237" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581421139701" />
-    <state width="1492" height="237" key="GridCell.Tab.0.center" timestamp="1581421139701">
+    <state width="1493" height="238" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581463041334" />
+    <state width="1493" height="238" key="GridCell.Tab.0.center" timestamp="1581463041334">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1876" height="298" key="GridCell.Tab.0.center/0.0.1536.824/1920.-327.1920.1040@1920.-327.1920.1040" timestamp="1581352517976" />
-    <state width="1492" height="237" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581421139701" />
-    <state width="1492" height="237" key="GridCell.Tab.0.left" timestamp="1581421139701">
+    <state width="1493" height="238" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581463041334" />
+    <state width="1493" height="238" key="GridCell.Tab.0.left" timestamp="1581463041334">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1876" height="298" key="GridCell.Tab.0.left/0.0.1536.824/1920.-327.1920.1040@1920.-327.1920.1040" timestamp="1581352517976" />
-    <state width="1492" height="237" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581421139701" />
-    <state width="1492" height="237" key="GridCell.Tab.0.right" timestamp="1581421139701">
+    <state width="1493" height="238" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581463041334" />
+    <state width="1493" height="238" key="GridCell.Tab.0.right" timestamp="1581463041334">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1876" height="298" key="GridCell.Tab.0.right/0.0.1536.824/1920.-327.1920.1040@1920.-327.1920.1040" timestamp="1581352517976" />
-    <state width="1492" height="237" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581421139701" />
+    <state width="1493" height="238" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581463041334" />
     <state width="1493" height="228" key="GridCell.Tab.1.bottom" timestamp="1581323802637">
       <screen x="1920" y="-327" width="1920" height="1040" />
     </state>
@@ -248,18 +298,24 @@
     </state>
     <state width="1493" height="228" key="GridCell.Tab.1.right/0.0.1536.824/1920.-327.1920.1040@1920.-327.1920.1040" timestamp="1581323802637" />
     <state width="1493" height="228" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581285270545" />
-    <state x="2360" y="-233" key="SettingsEditor" timestamp="1581326360974">
-      <screen x="1920" y="-327" width="1920" height="1040" />
+    <state x="352" y="74" key="SettingsEditor" timestamp="1581435672922">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="2360" y="-233" key="SettingsEditor/0.0.1536.824/1920.-327.1920.1040@1920.-327.1920.1040" timestamp="1581326360974" />
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1581419562556">
+    <state x="352" y="74" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581435672922" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1581454719809">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="2481" y="-29" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.-327.1920.1040@1920.-327.1920.1040" timestamp="1581340191607" />
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581419562556" />
-    <state x="2429" y="-209" key="spring file set editor" timestamp="1581326355643">
-      <screen x="1920" y="-327" width="1920" height="1040" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581454719809" />
+    <state x="452" y="139" width="631" height="546" key="find.popup" timestamp="1581431554975">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="452" y="139" width="631" height="546" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1581431554975" />
+    <state x="407" y="22" key="spring file set editor" timestamp="1581424062057">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="2429" y="-209" key="spring file set editor/0.0.1536.824/1920.-327.1920.1040@1920.-327.1920.1040" timestamp="1581326355643" />
+    <state x="407" y="22" key="spring file set editor/0.0.1536.824@0.0.1536.824" timestamp="1581424062057" />
   </component>
 </project>
